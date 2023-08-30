@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://www.elle.vn/wp-content/uploads/2017/07/25/hinh-anh-dep-1.jpg);
+  height: 700px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://cdn.baogiaothong.vn/upload/2-2022/images/2022-05-25/1-1653445668-308-width740height476.jpg);
+  height: 700px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/images/neom-B8892rcCI7g-unsplash.jpg);
+  height: 700px;
+}
